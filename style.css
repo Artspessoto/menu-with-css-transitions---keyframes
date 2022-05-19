@@ -8,6 +8,7 @@ body {
 }
 
 .wrapper {
+    
     height: 100vh;
     width: 100vw;
     background: linear-gradient(-45deg, #5e0878, #085078, #4ca59b, #1fa194);
@@ -19,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    
+
     /*animation: name duration timing-function delay iteration-count direction fill-mode;
 
     name = nome da animação, duration = tempo total da animação, timing-function = tempo da curva, tempo que 
