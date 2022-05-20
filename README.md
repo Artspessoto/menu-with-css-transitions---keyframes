@@ -9,3 +9,7 @@ linear-gradient, que realiza a mesclagem das cores passadas como parâmetro, for
 
 animation, torna a possível animar transições de um estilo para outro através das regras CSS da animação e do uso dos keyframes.
 
+
+
+https://user-images.githubusercontent.com/79053187/169472606-f52eb0e8-1236-42cc-a7c9-bea05b3a0920.mp4
+
