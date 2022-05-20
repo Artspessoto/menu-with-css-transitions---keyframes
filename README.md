@@ -15,6 +15,5 @@ animation, torna a possível animar transições de um estilo para outro atravé
 
 
 
-
 https://user-images.githubusercontent.com/79053187/169473928-37a87aa0-a794-4a2e-a9bd-1b6c7214e1f3.mp4
 
